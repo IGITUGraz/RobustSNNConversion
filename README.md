@@ -1,19 +1,20 @@
 # Adversarially Robust Spiking Neural Networks Through Conversion
 
-This is the code repository of the following [paper](https://arxiv.org/pdf/2311.09266.pdf) to perform adversarially robust ANN-to-SNN conversion.
+This is the code repository of the following [paper](https://openreview.net/pdf?id=I8FMYa2BdP) to perform adversarially robust ANN-to-SNN conversion.
 
 "Adversarially Robust Spiking Neural Networks Through Conversion"\
 <em>Ozan Özdenizci, Robert Legenstein</em>\
-arXiv preprint arXiv:2311.09266 (2023).
+Transactions on Machine Learning Research (TMLR), 2024.\
+https://openreview.net/forum?id=I8FMYa2BdP
 
 ## Reference
 If you use this code or models in your research and find it helpful, please cite the following paper:
 ```
-@article{ozdenizci2023adversarially,
+@article{ozdenizci2024adversarially,
   title={Adversarially robust spiking neural networks through conversion},
   author={Ozan {\"O}zdenizci and Robert Legenstein},
-  journal={arXiv preprint arXiv:2311.09266},
-  year={2023}
+  journal={Transactions on Machine Learning Research},
+  year={2024}
 }
 ```
 
